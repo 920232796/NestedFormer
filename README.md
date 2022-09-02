@@ -1,6 +1,6 @@
 # NestedFormer
 
-NestedForm (MICCAI2022) is a multimodal segmentation model on 3D medical images. The features of different modalities are fused through tri-oriented self-attention and cross-attention. We also improve the Poolfromer structure (CVPR2022) as an efficient encoder.
+NestedFormer (MICCAI2022) is a multimodal segmentation model on 3D medical images. The features of different modalities are fused through tri-oriented self-attention and cross-attention. We also improve the Poolfromer structure (CVPR2022) as an efficient encoder.
 
 Read our paper https://arxiv.org/abs/2208.14876 on ArXiv for a formal introduction.
 
